@@ -1,3 +1,7 @@
+//Lab 1 - Exercise 4
+//Christina Sosa
+//Programming Fundamentals, Summer 2021
+
 import java.util.Scanner;
 
 public class AgeGuess {
