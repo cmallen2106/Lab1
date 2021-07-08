@@ -1,3 +1,7 @@
+//Lab 1 - Exercise 4
+//Christina Sosa
+//Programming Fundamentals, Summer 2021
+
 package Lab1Ex2;
 
 public class GradeAvg {
