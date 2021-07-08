@@ -1,4 +1,4 @@
-//Lab 1 - Exercise 1
+//Lab 1 - Exercise 2
 //Christina Sosa
 //Programming Fundamentals, Summer 2021
 
